@@ -1,4 +1,3 @@
-Welcome to My GitHub Profile
 👋 Hi there! I'm Arne, an IT student at AP Hogeschool, with a passion for software development, networking, and exploring innovative technologies.
 
 About Me
