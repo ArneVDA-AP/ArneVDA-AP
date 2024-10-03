@@ -23,3 +23,7 @@ If you'd like to collaborate or just have a chat about tech, feel free to connec
 📧 Email: [Your Email]
 💼 LinkedIn: [Your LinkedIn Profile]
 🖥️ Personal Website: [Your Website, if applicable]
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Barnie/30-nites-of-code)  
+  ![@Barnie #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Barnie)
